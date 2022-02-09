@@ -1,0 +1,8 @@
+pip-tools==6.5.1
+wheel==0.37.1
+pillow==9.0.1
+matplotlib==3.5.1
+ipykernel==6.9.0
+jupyterlab==3.2.9
+onnxruntime-directml==1.10.0
+
